@@ -1,5 +1,32 @@
 # 💫 About Me:
-I'm currently working on:<br><br>Leading Agile delivery of end-to-end data products, including sprint planning, retrospectives, and mentoring engineers.<br><br>Optimizing data collection and processing pipelines for performance and reliability.<br><br>Deploying and managing ML models on AWS SageMaker and automating complex data workflows with Apache Airflow.<br><br>Building and maintaining robust, production-grade data pipelines for analytical datasets.<br><br>I'm currently working on:<br><br>Leading Agile delivery of end-to-end data products, including sprint planning, retrospectives, and mentoring engineers.<br><br>Optimizing data collection and processing pipelines for performance and reliability.<br><br>Deploying and managing ML models on AWS SageMaker and automating complex data workflows with Apache Airflow.<br><br>Building and maintaining robust, production-grade data pipelines for analytical datasets.<br><br>I'm currently learning:<br><br>Apache Airflow<br><br>Jenkins<br><br>Ask me about:<br><br>Building scalable backend services using Python, Django, FastAPI, Flask, Next.js, and React.js.<br><br>Designing and optimizing data pipelines with Apache Airflow, Kafka, and other ETL processes.<br><br>Cloud solutions and DevOps practices on AWS (EC2, S3, SNS, SQS), Docker, and Jenkins.<br><br>Machine learning model deployment and management with AWS SageMaker.<br><br>Developing RESTful APIs and microservices architecture.<br><br>Database management with MongoDB, MySQL, and NoSQL.<br><br>Agile methodologies and leading engineering teams.
+
+I'm currently working on:<br><br>
+*   Leading Agile delivery for end-to-end data products, mentoring engineers.
+*   Optimizing data collection and processing pipelines for performance and reliability.
+*   Deploying and managing ML models on AWS SageMaker and automating data workflows with Apache Airflow.
+*   Building and maintaining robust, production-grade data pipelines.
+
+I'm looking to collaborate on:<br><br>
+*   Scalable backend services & data pipelines (Python, Django, FastAPI).
+*   Cloud-based solution architecture & deployment (AWS).
+*   Machine learning model deployment and data workflow automation.
+  
+I'm currently learning:<br><br>
+*   Apache Airflow
+*   Jenkins
+
+Ask me about:<br><br>
+*   Building scalable backend services (Python, Django, FastAPI, Flask, Next.js, and React.js).
+*   Designing and optimizing data pipelines with Apache Airflow, Kafka, and other ETL processes.
+*   Cloud solutions and DevOps practices on AWS (EC2, S3, SNS, SQS), Docker, and Jenkins.
+*   Machine learning model deployment and management with AWS SageMaker.
+*   Developing RESTful APIs and microservices architecture.
+*   Database management with MongoDB, MySQL, and NoSQL.
+*   Agile methodologies and leading engineering teams.
+
+Fun fact:<br><br>
+*   *(Share something personal or unique here to make your profile stand out!)*
+
 
 
 ## 🌐 Socials:
