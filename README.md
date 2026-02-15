@@ -1,31 +1,33 @@
 # 💫 About Me:
 
 I'm currently working on:<br><br>
-*   Leading Agile delivery for end-to-end data products, mentoring engineers.
-*   Optimizing data collection and processing pipelines for performance and reliability.
-*   Deploying and managing ML models on AWS SageMaker and automating data workflows with Apache Airflow.
-*   Building and maintaining robust, production-grade data pipelines.
+*   Deploying and managing scalable ML models on AWS SageMaker, and building MLOps pipelines for continuous training and deployment.
+*   Leading Agile delivery for end-to-end data products, with a focus on integrating machine learning capabilities.
+*   Optimizing and engineering feature pipelines for model training and real-time inference.
+*   Building robust, production-grade data infrastructure to support large-scale AI applications.
 
 I'm looking to collaborate on:<br><br>
-*   Scalable backend services & data pipelines (Python, Django, FastAPI).
-*   Cloud-based solution architecture & deployment (AWS).
-*   Machine learning model deployment and data workflow automation.
-  
+*   End-to-end machine learning projects, from data acquisition to model deployment and monitoring.
+*   Developing and fine-tuning deep learning models (e.g., in NLP or Computer Vision).
+*   Building scalable data and ML pipelines using modern tools like Apache Airflow, Kafka, and Spark.
+*   Open-source AI/ML libraries and frameworks.
+
+I'm looking for help with:<br><br>
+*   "Advanced Deep Learning Architectures" or "Contributing to major open-source AI projects
+
 I'm currently learning:<br><br>
-*   Apache Airflow
-*   Jenkins
+*   Advanced MLOps techniques for model monitoring and governance.
+*   Large Language Models (LLMs) and their applications.
+*   PyTorch and TensorFlow for building custom deep learning models.
 
 Ask me about:<br><br>
-*   Building scalable backend services (Python, Django, FastAPI, Flask, Next.js, and React.js).
-*   Designing and optimizing data pipelines with Apache Airflow, Kafka, and other ETL processes.
-*   Cloud solutions and DevOps practices on AWS (EC2, S3, SNS, SQS), Docker, and Jenkins.
-*   Machine learning model deployment and management with AWS SageMaker.
-*   Developing RESTful APIs and microservices architecture.
-*   Database management with MongoDB, MySQL, and NoSQL.
-*   Agile methodologies and leading engineering teams.
+*   MLOps and deploying machine learning models in production using AWS SageMaker and Docker.
+*   Designing scalable data pipelines for ML using Apache Airflow, Kafka, and ETL/ELT processes.
+*   Building backend services to serve ML models (Python, FastAPI, Flask).
+*   Cloud architecture for AI/ML on AWS (EC2, S3, SQS).
+*   Agile methodologies for ML projects and leading data science teams.
 
-Fun fact:<br><br>
-*   *(Share something personal or unique here to make your profile stand out!)*
+
 
 
 
